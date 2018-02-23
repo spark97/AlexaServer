@@ -1,0 +1,6 @@
+[submodule "apps/BCTrack"]
+	path = apps/BCTrack
+	url = https://github.com/spark97/BCTrack
+[submodule "apps/RCTrack"]
+	path = apps/RCTrack
+	url = https://github.com/spark97/RCTrack
