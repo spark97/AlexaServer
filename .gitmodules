@@ -4,3 +4,6 @@
 [submodule "apps/RCTrack"]
 	path = apps/RCTrack
 	url = https://github.com/spark97/RCTrack
+[submodule "apps/apps/BCTrack"]
+	path = apps/apps/BCTrack
+	url = https://github.com/spark97/AlexaServer
